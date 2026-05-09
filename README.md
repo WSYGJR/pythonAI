@@ -1,2 +1,0 @@
-# pythonAI
-pythonAI learning
